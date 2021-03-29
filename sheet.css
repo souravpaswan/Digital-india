@@ -1,0 +1,85 @@
+.bodies{
+    background-color: #581361;
+    color: white;
+}
+.body1{
+    background-color: blanchedalmond;
+}
+.headings{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    text-shadow: 1px 1px 1px #ccc;
+    text-decoration: underline;
+    text-decoration-color: rgb(255, 255, 0);
+    text-decoration-thickness: 5px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: "Times New Roman", Times, serif;
+}
+.heading1{
+    text-align: left;
+    font-family: "Times New Roman", Times, serif;
+    text-shadow: 1px 1px 1px #ccc;
+    text-decoration: underline;
+    text-decoration-color: rgb(255, 255, 0);
+    text-decoration-thickness: 5px;
+}
+.heading2{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    text-shadow: 1px 1px 1px #ccc;
+    text-decoration: underline;
+    text-decoration-color: rgb(255, 255, 0);
+    text-decoration-thickness: 5px;
+}
+.container {
+    position: relative;
+    max-width: 1300px;
+    margin: 0 auto;
+}
+.content {
+    position: sticky;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
+.content1{
+    position: absolute;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 97.6%;
+    padding: 5px;
+}
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(8, 7, 7);
+    color: white;
+    text-align: center;
+}
+.imgg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+.p1, .ah{ 
+    text-align: justify; 
+    font-size: 25px; 
+}
+.ah{
+    line-height: 50px;
+}
+.bottom{
+    position:absolute;                  
+    bottom:0;                          
+}
+.abimg{
+    width: 100%;
+    height: 550px;
+}
