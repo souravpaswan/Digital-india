@@ -46,14 +46,6 @@ h1,h2,h3,h4,h5,h6{
     width: 100%;
     padding: 20px;
 }
-.content1{
-    position: absolute;
-    background: rgb(0, 0, 0);
-    background: rgba(0, 0, 0, 0.5);
-    color: #f1f1f1;
-    width: 97.6%;
-    padding: 5px;
-}
 .footer {
     left: 0;
     bottom: 0;
@@ -61,12 +53,6 @@ h1,h2,h3,h4,h5,h6{
     background-color: rgb(8, 7, 7);
     color: white;
     text-align: center;
-}
-.imgg{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%;
 }
 .p1, .ah{ 
     text-align: justify; 
@@ -79,7 +65,7 @@ h1,h2,h3,h4,h5,h6{
     position:absolute;                  
     bottom:0;                          
 }
-.abimg{
+.responsive {
     width: 100%;
-    height: 550px;
+    height: auto;
 }
